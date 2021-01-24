@@ -1,0 +1,53 @@
+/* HEADER LAYOUT */
+
+body {
+  text-align: center;
+  line-height: 0.4;
+  font-family: museo-sans, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+h1 {
+  padding-top: 40px;
+  font-family: museo, serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+h2 {
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.social-links {
+  padding-bottom: 15px;
+}
+
+.social-links a {
+  padding: 5px;
+}
+
+.navigation a {
+  margin: auto;
+  padding: 15px;
+  text-decoration: none;
+  color: black;
+  /* font-family: museo, serif;
+  font-weight: 500;
+  font-style: normal; */
+}
+
+.navigation a:hover {
+  color: #E6B30B;
+}
+
+/* INDEX */
